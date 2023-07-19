@@ -1,8 +1,8 @@
-/* 
+
 .container-fluid{
 	margin: 0;
 	padding: 0;
-	background-color:grey;
+	
 }
 
 .navbar{
@@ -14,7 +14,8 @@
   font-size: 35px;
   color: white;
   padding-left: 25px;
-} */
+  background-color:grey;
+}
 
 .navbar-brand:hover{
 	color: white;
@@ -85,6 +86,7 @@ li{
 	background-color: rgba(0,0,0,0.2);
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 20px;
+	background-color:grey;
 }
 
 .item-name{
